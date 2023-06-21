@@ -1,25 +1,24 @@
-# Name                    Version                   Build  Channel
-affine                    2.3.0                      py_0  
-cudatoolkit               10.1.243             h74a9793_0  
-cudnn                     7.6.5                cuda10.1_0  
-cufflinks                 0.17.3                   pypi_0    pypi
-fiona                     1.8.13.post1     py37hd760492_0  
-keras                     2.3.1                         0  
-keras-applications        1.0.8                      py_1  
-keras-base                2.3.1                    py37_0  
-keras-preprocessing       1.1.2              pyhd3eb1b0_0  
-numpy                     1.19.2           py37hadc3359_0  
-numpy-base                1.19.2           py37ha3acd2a_0  
-rasterio                  1.1.0            py37h039b02d_0  
-scikit-image              0.17.2                   pypi_0    pypi
-scikit-learn              0.23.2                   pypi_0    pypi
-scipy                     1.5.4                    pypi_0    pypi
-segmentation-models       1.0.1                    pypi_0    pypi
-shapely                   1.7.1            py37h210f175_0  
-sklearn                   0.0                      pypi_0    pypi
-tensorboard               2.4.0              pyhc547734_0  
-tensorboard-plugin-wit    1.7.0                    pypi_0    pypi
-tensorflow                2.3.1                    pypi_0    pypi
-tensorflow-base           2.1.0           gpu_py37h55f5790_0  
-tensorflow-estimator      2.3.0                    pypi_0    pypi
-tensorflow-gpu            2.1.0                h0d30ee6_0  
+affine==2.3.0                 
+cudatoolkit==10.1.243
+cudnn==7.6.5 
+cufflinks==0.17.3
+fiona==1.8.13
+keras==2.3.1 
+keras-applications==1.0.8 
+keras-base==2.3.1
+keras-preprocessing==1.1.2 
+numpy==1.19.2
+numpy-base==1.19.2
+rasterio==1.1.0  
+scikit-image==0.17.2
+scikit-learn==0.23.2
+scipy==1.5.4
+segmentation-models==1.0.1
+shapely==1.7.1
+sklearn                   
+tensorboard==2.4.0
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.3.1
+tensorflow-base==2.1.0  
+tensorflow-estimator==2.3.0
+tensorflow-gpu==2.1.0
