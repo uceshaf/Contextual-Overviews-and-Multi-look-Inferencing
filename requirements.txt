@@ -1,14 +1,8 @@
 affine==2.3.0                 
-cudatoolkit==10.1.243
-cudnn==7.6.5 
 cufflinks==0.17.3
 fiona==1.8.13
 keras==2.3.1 
-keras-applications==1.0.8 
-keras-base==2.3.1
-keras-preprocessing==1.1.2 
 numpy==1.19.2
-numpy-base==1.19.2
 rasterio==1.1.0  
 scikit-image==0.17.2
 scikit-learn==0.23.2
@@ -16,8 +10,6 @@ scipy==1.5.4
 segmentation-models==1.0.1
 shapely==1.7.1
 sklearn                   
-tensorboard==2.4.0
-tensorboard-plugin-wit==1.7.0
 tensorflow==2.3.1
 tensorflow-base==2.1.0  
 tensorflow-estimator==2.3.0
