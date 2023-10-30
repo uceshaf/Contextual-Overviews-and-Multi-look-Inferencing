@@ -1,5 +1,5 @@
 # Contextual-Overviews-and-Multi-look-Inferencing
-The code for applying contextual overviews and multi-look inferencing as described in the submitted paper
+The code for applying contextual overview bands and multi-look inferencing as described in the paper "Contextual Bands Addition and Multi-Look Inferencing to Improve Semantic Segmentation Model Performance on Satellite Images".
 
 The work on a Google Colab Notebook to provide examples of usage on the test images is in progress and will be uploaded shortly. 
 
